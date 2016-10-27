@@ -1996,7 +1996,7 @@
 			display: block;
 		}
 
-		.image img:hover {
+		.features .image img:hover {
 			opacity: .4;
 			transition: opacity .5s ease;
 		}
