@@ -1996,6 +1996,11 @@
 			display: block;
 		}
 
+		.image img:hover {
+			opacity: .4;
+			transition: opacity .5s ease;
+		}
+
 		.image.left {
 			float: left;
 			margin: 0 2.5em 2em 0;
